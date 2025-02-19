@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Red Hat Display';
+}
+
+.desktop-hero {
+    display: none;
+}
+
+.full {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+header {
+
+    padding-top: 3rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+
+}
+
+.group-chat {
+    padding-top: 4rem;
+    padding-left: 2.2rem;
+    padding-bottom: 2rem;
+    padding-right: 2.2rem;
+    gap: 3rem;
+}
+
+.group-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 2.5rem;
+    line-height: 110%;
+    color: hsl(240, 21%, 20%);
+    text-align: center;
+    margin-left: 1rem;
+    margin-right: 1rem;
+
+}
+
+.group-div p {
+    text-align: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-imgs {
+    width: 140%;
+}
+
+.mobile-hero {
+    width: 100%;
+}
+
+.four-imgs {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+
+}
+
+.four-imgs img {
+    width: 30%;
+}
