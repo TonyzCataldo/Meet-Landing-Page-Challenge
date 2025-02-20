@@ -26,6 +26,22 @@ header {
 
 }
 
+.v-1:hover{
+    cursor: pointer;
+    
+
+}
+
+#v-1-1:hover{
+    background-color: hsl(192, 54%, 64%);
+}
+.what:hover{
+    cursor: pointer;
+    background-color: hsl(268, 55%, 71%);
+}
+#v-1-2:hover{
+    background-color: hsl(268, 55%, 71%);
+}
 .group-chat {
     padding-top: 4rem;
     padding-left: 2.2rem;
