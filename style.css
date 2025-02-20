@@ -423,6 +423,11 @@ header{
 }
 .group-div p{
     font-size: 1.125rem;
+    width: 530px;
+}
+
+.buttons p{
+    width: auto;
 }
 .group-chat{
     flex-direction: row;
@@ -440,12 +445,12 @@ header{
     display: block;
 }
 #desktop-img-left{
-    margin-left: -22.5%;
+    margin-left: -25%;
     
 }
 #desktop-img-right{
     position: relative;
-    right: -24.5%;
+    right: -25.5%;
 }
 
 .second-square{
